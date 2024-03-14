@@ -1,6 +1,3 @@
-USE
-	trails_schema;
-
 INSERT INTO locations (name, country, region, latitude, longitude) VALUES
 ('Yosemite National Park', 'USA', 'California', 37.8651, -119.5383),
 ('Zion National Park', 'USA', 'Utah', 37.2982, -113.0263),
